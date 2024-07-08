@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Capstone_Backend",
+    "\\Capstone_Backend\\Controllers",
+    "\\Capstone_Backend\\Models",
+    "\\Capstone_Backend\\Repositories",
+    "\\Capstone_Backend\\Repositories\\AuthenticationRepository",
+    "\\Capstone_Backend\\Repositories\\RegistrationRepository",
+    "\\Capstone_Backend\\Repositories\\UserRepository"
+  ],
+  "SelectedNode": "\\Capstone_Backend\\Models\\ReviewGetDTO.cs",
+  "PreviewInSolutionExplorer": false
+}

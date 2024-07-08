@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|c:\\users\\moham\\desktop\\mohamadsibai\\capstone_backend\\capstone_backend\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|solutionrelative:capstone_backend\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|c:\\users\\moham\\desktop\\mohamadsibai\\capstone_backend\\capstone_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|solutionrelative:capstone_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|c:\\users\\moham\\desktop\\mohamadsibai\\capstone_backend\\capstone_backend\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|solutionrelative:capstone_backend\\repositories\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|c:\\users\\moham\\desktop\\mohamadsibai\\capstone_backend\\capstone_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|solutionrelative:capstone_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|c:\\users\\moham\\desktop\\mohamadsibai\\capstone_backend\\capstone_backend\\repositories\\registrationrepository\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F6F944-4055-47CF-8BDA-3D5F2E0C431F}|Capstone_Backend\\Capstone_Backend.csproj|solutionrelative:capstone_backend\\repositories\\registrationrepository\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Repositories\\RegistrationRepository\\RegistrationRepository.cs",
+              "RelativeDocumentMoniker": "Capstone_Backend\\Repositories\\RegistrationRepository\\RegistrationRepository.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Repositories\\RegistrationRepository\\RegistrationRepository.cs",
+              "RelativeToolTip": "Capstone_Backend\\Repositories\\RegistrationRepository\\RegistrationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:58:36.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Capstone_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Program.cs",
+              "RelativeToolTip": "Capstone_Backend\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:28:07.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Capstone_Backend\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Repositories\\UserRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Capstone_Backend\\Repositories\\UserRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAIAwwCoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:08:05.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Repositories\\UserRepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Capstone_Backend\\Repositories\\UserRepository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Repositories\\UserRepository\\UserRepository.cs",
+              "RelativeToolTip": "Capstone_Backend\\Repositories\\UserRepository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:30:19.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Capstone_Backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\MohamadSibai\\Capstone_Backend\\Capstone_Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Capstone_Backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:23:46.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
